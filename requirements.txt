@@ -1,0 +1,5 @@
+fastapi==0.109.2
+uvicorn==0.30.3
+psycopg2-binary==2.9.9
+python-multipart==0.0.9
+python-jose[cryptography]==3.3.0
